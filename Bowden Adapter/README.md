@@ -10,11 +10,6 @@ This bowden adapter is designed to have 3 nuts inside, fot those bowdens which s
 There is one open version, which you can mount with acetone or some adhesive, and another one which is closed.<br />
 For the closed one, you will have to pause printing when the nozzle is about to start closing the nut hole.<br />
 
-Instructions
---------
-The same as in "Bowden Adapter with hidden nut", but with 3 nuts inside
-
-
 License
 --------
 Bowden Adapter by algspd is licensed under the Creative Commons - Attribution - Share Alike license.  
