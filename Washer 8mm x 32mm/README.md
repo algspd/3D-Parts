@@ -3,8 +3,6 @@ Washer (8.5mm x 32mm)
 
 Washer (8.5mm x 32mm)  by algspd , published Sep 24, 2012
 
-![Image](img/8.5mmx32mm_washer_display_large.jpg)
-
 Description
 --------
 8.5mm x 32mm washer
