@@ -3,7 +3,7 @@ Filament spool coupler
 
 Filament spool coupler  by algspd , published Sep 5, 2012
 
-![Image](img/filament_spool_M8_coupler_display_large.jpg)
+![Image](img/photo_preview.jpg)
 
 Description
 --------
